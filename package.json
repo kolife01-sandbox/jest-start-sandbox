@@ -1,0 +1,29 @@
+{
+  "name": "jest-domock-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolife01-sandbox/jest-doMock-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolife01-sandbox/jest-doMock-sandbox/issues"
+  },
+  "homepage": "https://github.com/kolife01-sandbox/jest-doMock-sandbox#readme",
+  "devDependencies": {
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.0",
+    "@types/mocha": "^7.0.2",
+    "@types/node": "^14.0.13"
+  }
+}
